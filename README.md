@@ -32,7 +32,9 @@ me.say_hi()
 
 - _  I'm currently an undergrad studying Data Analytics in Seattle
 - 🔭 I’m currently working on [Historical Data - Fiancial Analysis Tool](https://github.com/yahoo_finance_Sp500_scrape)[Multivariate Regression]
-- 🌱 I’m currently learning [Pipeline Building w/ Python](https://github.com/datatalking/Mastering_Large_Datasets), [Paralell Computing], [Testing], [n+7] , [Bayesian Inference](https://github.com/ipshitag/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) and OSINT.
+- 🌱 I’m currently learning [Pipeline Building w/ Python](https://github.com/datatalking/Mastering_Large_Datasets), [Paralell Computing], 
+- _  I'm digging deeper into SQL [SQL Alcemy - Oreilly](https://github.com/datatalking/SQL_Alchemy), [SQL]
+- _  In August I'm re-reading [Django Test Driven Development]()[Testing], [n+7] , 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andrewschell/) 
 - Information, specifically our data has a lot to day. I get the datatalking.
 
@@ -57,6 +59,6 @@ me.say_hi()
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ipshitag&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=datatalking&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://img.shields.io/github/stars/ipshitag?affiliations=OWNER&style=social) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ipshitag.ipshitag)
+![](https://img.shields.io/github/stars/datatalking?affiliations=OWNER&style=social) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=datatalking.datatalking)

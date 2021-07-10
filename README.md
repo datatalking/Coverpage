@@ -30,6 +30,7 @@ speed * quality = DataScience.acceptable_risk()
 me.say_hi()
 ```
 
+- _  I'm currently an undergrad studying Data Analytics in Seattle
 - 🔭 I’m currently working on [Historical Data - Fiancial Analysis Tool](https://github.com/yahoo_finance_Sp500_scrape)[Multivariate Regression]
 - 🌱 I’m currently learning [Pipeline Building w/ Python](https://github.com/datatalking/Mastering_Large_Datasets), [Paralell Computing], [Testing], [n+7] , [Bayesian Inference](https://github.com/ipshitag/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) and OSINT.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andrewschell/) 
